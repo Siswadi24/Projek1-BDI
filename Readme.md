@@ -1,6 +1,6 @@
 # First Project
 
-Repository Ini Berisi Projek Web Statis Pertama dalam rangka BDI
+Repository Ini Berisi Projek Web Statis Pertama bersama [ahmadzami123](https://github.com/ahmadzami123) dalam rangka menyelesaikan tugas BDI
 
 **Penggunaan Technology**
   * HTML
